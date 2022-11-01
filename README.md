@@ -8,5 +8,4 @@ This project is based on AI (Artificial Intelligence) which is useful in detecti
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" align="center" alt="drawing" width="400" />
 </div>
-
 <br>
